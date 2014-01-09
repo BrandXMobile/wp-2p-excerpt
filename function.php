@@ -1,3 +1,4 @@
+//function that gets the first two paragraphs and displays them ( no img )
 function custom_field_excerpt() {
     
     global $post;
